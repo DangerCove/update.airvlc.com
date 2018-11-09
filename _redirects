@@ -1,3 +1,6 @@
-https://www.airvlc.com/*         /airvlc
+https://www.airvlc.com/*          /airvlc
 
-https://download.airvlc.com/*    /download/:splat
+https://download.airvlc.com/*     /download/:splat
+
+https://vlc.airvlc.com/download   http://www.videolan.org
+https://vlc.airvlc.com/downgrade  http://dangercove.uservoice.com/knowledgebase/articles/258067
