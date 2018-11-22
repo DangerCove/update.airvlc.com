@@ -1,6 +1,6 @@
-https://www.airvlc.com            https://www.dangercove.com/airvlc
+https://www.airvlc.com/*          https://www.dangercove.com/airvlc/:splat                          301!
 
-https://download.airvlc.com/*     /download/:splat
+https://download.airvlc.com/*     /download/:splat                                                  200!
 
 https://vlc.airvlc.com/download   http://www.videolan.org
 https://vlc.airvlc.com/downgrade  http://dangercove.uservoice.com/knowledgebase/articles/258067
